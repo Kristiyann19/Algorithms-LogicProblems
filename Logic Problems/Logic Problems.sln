@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factoriel Recursion", "..\F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divide And Conquer-Merge Sort", "..\Divide And Conquer-Merge Sort\Divide And Conquer-Merge Sort.csproj", "{EC9D2C91-E790-487C-8D1F-105D0D5E3409}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karatsuba Algorithm", "..\Karatsuba Algorithm\Karatsuba Algorithm.csproj", "{989BFE67-84F3-4B21-8601-DA990023FBEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Karatsuba Algorithm", "..\Karatsuba Algorithm\Karatsuba Algorithm.csproj", "{989BFE67-84F3-4B21-8601-DA990023FBEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCC Coursera Assigment", "..\SCC Coursera Assigment\SCC Coursera Assigment.csproj", "{BC2B597E-07F9-415A-99D9-80936C6E579D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{989BFE67-84F3-4B21-8601-DA990023FBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{989BFE67-84F3-4B21-8601-DA990023FBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{989BFE67-84F3-4B21-8601-DA990023FBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2B597E-07F9-415A-99D9-80936C6E579D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2B597E-07F9-415A-99D9-80936C6E579D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2B597E-07F9-415A-99D9-80936C6E579D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2B597E-07F9-415A-99D9-80936C6E579D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
